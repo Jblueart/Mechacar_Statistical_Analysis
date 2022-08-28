@@ -21,3 +21,14 @@ I love this scatter chart illustrating the various facets and how they impact th
 
 To get even better results one would also need to compare engine size & power, but that would be better suited to a different illustration model. 
 
+## Suspension Coil PSI Variance. 
+
+# Total PSI Summary: 
+![image](https://user-images.githubusercontent.com/104408782/187086253-a0006784-1709-45c9-a6fa-ee9a3cb04e4b.png)
+
+# PSI Summary by Manufacture Lot#
+![image](https://user-images.githubusercontent.com/104408782/187086116-b02c875c-5e66-4203-a1dc-86ad80b2a003.png)
+
+slight increase of variance in Lot3, but nothing super worrisome. 
+
+
