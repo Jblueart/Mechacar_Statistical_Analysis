@@ -15,5 +15,9 @@ I would say that we aren't quite predicting the mpg in an easy way for people to
 ![image](https://user-images.githubusercontent.com/104408782/187082636-022b446f-2b82-4211-858d-cef6c9a3c97f.png)
 
 
-Each of the vehicles is affected minutely by each of the various parameters of not only the independent variables above, but also the Vehicle Length & Ground clearnce variables. 
+Each of the vehicles is affected minutely by each of the various parameters of not only the independent variables above, but also the Vehicle Length & Ground clearence variables. 
+
+I love this scatter chart illustrating the various facets and how they impact the overall equasion. It's helpful in comparing a few factors at a time, but is more theoretical in that you're not examining specific vehicles. It would be fun to have a filter to look at specific models and to compare cars within a subset category to best understand how to tweak the features of them to maximize mpg based on real data. For instance compare a Jeep with a Toyota Rav4 and the Mazda c-5 or c-50 to see the variance within the category. This can inform your overall design. 
+
+To get even better results one would also need to compare engine size & power, but that would be better suited to a different illustration model. 
 
